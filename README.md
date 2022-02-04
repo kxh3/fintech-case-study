@@ -43,8 +43,10 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 
 * What has been the business impact of this company so far?
+  - The businees impact of this company so far is that it has provided customers (who are lost in where to invest or how to save their money) great financial advice. It has especially impacted the employers who do not have retirement plans for their employees because they seem to be too time consuming and expensive. Thanks to Betterment, they were able to guide these employers into creating retirement plans, specifically 401k plans, that can help benefit their employers. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+  - Betterment measures their success based on the satisfaction of their customers, the number of customers they recieve, and if they see that their customers' wealth has grown overtime. 
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -52,16 +54,20 @@ What solution does this company offer that their competitors do not or cannot of
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  - I would suggest they could offer more advice and services relating to cryptocurrency since it is not often seen. Betterment could add an additional portfolio that tracks how the customer spends their cryptocurrency and where they can invest it. 
 
 * Why do you think that offering this product or service would benefit the company?
+  - I think this would benefit the company because it is not seen done before based on the other companies I have check and it would make Betterment stand out. Although cryptocurrency has been around for awhile, it has not gain the attention that it has today and more of the population is getting invovled. A number of people are jumping into investing in cryptocurrency based on the hype instead of looking for professional advice that they could benefit from more. 
 
 * What technologies would this additional product or service utilize?
+  - Additional technology that this service would utilize is the technology that would allow users to connect their crypto wallets onto the Betterment website. This will allow users to view the crypotcurrency that they bought in other wallets onto the Betterment website where they can track or invest it. 
 
 * Why are these technologies appropriate for your solution?
-
+  - I believe these technologies are appropriate for my solution because Betterment currently does not offer options where you can view your crypotcurrency portfolios. Therefore adding the technology that allows you to connect your crypto wallet to Betterment is neccessary. Especially because you can not buy cryptocurrency on Betterment since that is not the goal of their website. 
 
 ## Works Cited
 
 https://www.nycfounderguide.com/insight/jon-stein-built-betterment-high-minded-mission-outsider-scrappiness
 https://www.betterment.com/resources/2021-fundraising
 https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/
+https://www.betterment.com/401k/resources/betterment-for-business-a-better-401k-for-employers-and-employees
