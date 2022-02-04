@@ -20,6 +20,7 @@ The company is funded by numerous investors such as Kinnevik, Bessemer Venture P
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+  - The specific financial problem the company is trying to solve is that not enough of the population is recieving the financial advisement needed to help them. In person     advisement only reached a certain number of customers, meanwhile robo advising can reach a larger range. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
