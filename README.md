@@ -43,7 +43,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 
 * What has been the business impact of this company so far?
-  - The businees impact of this company so far is that it has provided customers (who are lost in where to invest or how to save their money) great financial advice. It has especially impacted the employers who do not have retirement plans for their employees because they seem to be too time consuming and expensive. Thanks to Betterment, they were able to guide these employers into creating retirement plans, specifically 401k plans, that can help benefit their employers. 
+  - The businees impact of this company so far is that it has provided customers (who are lost in where to invest or how to save their money) great financial advice. It has especially impacted the employers who do not have retirement plans for their employees because they seem to be too time consuming and expensive. Thanks to Betterment, they were able to guide these employers into creating retirement plans, specifically 401k plans, that can help benefit their employees. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
   - Betterment measures their success based on the satisfaction of their customers, the number of customers they recieve, and if they see that their customers' wealth has grown overtime. 
