@@ -24,7 +24,7 @@ fortunate. When the 2008 crisis happened, Joe realized that a lot of people were
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-  - The company't inteded customer are regular people who are need help on saving money and investing it. Betterment has a large set of customers totaling at +700,000. 
+  - The company't inteded customer are regular people who are need help on saving money and investing it. Betterment has a large set of customers totaling at +700,000. Betterment offers trade commission fees from 0.25-0.40%, access to human advisors, and retirement account options. The most common offer among these companies are low fees, but the retirement options offer make Betterment stand out from its competitors. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -49,6 +49,7 @@ What solution does this company offer that their competitors do not or cannot of
   - Betterment measures their success based on the satisfaction of their customers, the number of customers they recieve, and if they see that their customers' wealth has grown overtime. 
 
 * How is your company performing relative to competitors in the same domain?
+  - Compared to other competitors, Betterment has one of the highest received funding at $1.3 billion as mentioned before. Meanwhile 
 
 
 ## Recommendations
@@ -71,3 +72,4 @@ https://www.nycfounderguide.com/insight/jon-stein-built-betterment-high-minded-m
 https://www.betterment.com/resources/2021-fundraising
 https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/
 https://www.betterment.com/401k/resources/betterment-for-business-a-better-401k-for-employers-and-employees
+https://www.insiderintelligence.com/insights/best-robo-advisors/
