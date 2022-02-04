@@ -20,10 +20,11 @@ fortunate. When the 2008 crisis happened, Joe realized that a lot of people were
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-  - The specific financial problem the company is trying to solve is that not enough of the population is recieving the financial advisement needed to help them. In person     advisement only reached a certain number of customers, meanwhile robo advising can reach a larger range. 
+  - The specific financial problem the company is trying to solve is that not enough of the population is recieving the financial advisement needed to help them. In person     advisement only reached a certain number of customers, meanwhile robo advising can reach a larger range. Also at the time this company was founded, the population was struggling due to the 2008 crisis and Betterment's goal was to help the population recover. Their goal is to advise customers on where to invest, how to save money, track finances, etc. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+  - The company't inteded customer are regular people who are need help on saving money and investing it. Betterment has a large set of customers totaling at +700,000. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -31,11 +32,13 @@ What solution does this company offer that their competitors do not or cannot of
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+  - The company is a par of the robo advising domain, which is a system that offers financial advising online instead of in person. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+  - Major trends of robo advising was offering customers quick, convenient, and low cost financial advice since going in person was more time consuming and costly. These robo advising companies have been constantly working to compete against banks since they offer low fees and higher interests rates. Major innovations inlcude tools where customers can automatically save money and budget. 
 
 * What are the other major companies in this domain?
-
+  - Other major companies in this domain are Wealthfront, SoFi, and Personal Capital. 
 
 ## Results
 
@@ -61,3 +64,4 @@ What solution does this company offer that their competitors do not or cannot of
 
 https://www.nycfounderguide.com/insight/jon-stein-built-betterment-high-minded-mission-outsider-scrappiness
 https://www.betterment.com/resources/2021-fundraising
+https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/
