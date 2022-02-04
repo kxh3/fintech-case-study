@@ -1,20 +1,20 @@
 # fintech-case-study
 An assignment that researches and studies a Fintech domain. 
 * Name of company
-- The company is called Betterment which provides robo advising. 
+  - The company is called Betterment which provides robo advising. 
 
 * When was the company incorporated?
-- The company was incorporated in 2008. 
+  - The company was incorporated in 2008. 
 
 * Who are the founders of the company?
-- The founder of the company is Joe Stein and the co-founder is Eli Broverman. 
+  - The founder of the company is Joe Stein and the co-founder is Eli Broverman. 
 
 * How did the idea for the company (or project) come about?
-- When Joe Stein first got a finance job, he realized that finance consisted of "making rich people richer" while there was a lack of service for those less
+  - When Joe Stein first got a finance job, he realized that finance consisted of "making rich people richer" while there was a lack of service for those less
 fortunate. When the 2008 crisis happened, Joe realized that a lot of people were struggling and needed desperate help. Joe saw that there needed to be an expansion in wealth building services to a wider range of customers. Then the idea of building a robo advising company came along. 
 
 * How is the company funded? How much funding have they received?
-- The company is funded by numerous investors such as Kinnevik, Bessemer Venture Partners, Francisco Partners, Menlo Ventures, Anthemis Group, Globespan Capital Partners, Citi Ventures, The Private Shares Fund, and Aflac Ventures. Through these investors they managed to raise $1.3 billion in funding. 
+  - The company is funded by numerous investors such as Kinnevik, Bessemer Venture Partners, Francisco Partners, Menlo Ventures, Anthemis Group, Globespan Capital Partners, Citi Ventures, The Private Shares Fund, and Aflac Ventures. Through these investors they managed to raise $1.3 billion in funding. 
 
 
 ## Business Activities:
